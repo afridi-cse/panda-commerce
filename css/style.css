@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(179, 211, 123);
+}
+
+.panda-carousel {
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+
+.panda-banner {
+    margin-top: 100px;
+}
+
+.panda-card {
+    border: 0;
+    border-radius: 1em;
+}
+
+.panda-card-footer {
+    background-color: white;
+    border: 0;
+}
+
+.gallary img {
+    width: 100px;
+}
